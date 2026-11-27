@@ -1,0 +1,11 @@
+*.iso
+*.qcow2
+*.vmdk
+*.vdi
+*.raw
+*.img
+*.env
+*.pem
+*.key
+.DS_Store
+Thumbs.db
